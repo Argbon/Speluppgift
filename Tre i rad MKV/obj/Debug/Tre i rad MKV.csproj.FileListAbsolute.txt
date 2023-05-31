@@ -1,0 +1,8 @@
+C:\Programering\C#\Tre i rad MKV\bin\Debug\Tre i rad MKV.exe.config
+C:\Programering\C#\Tre i rad MKV\bin\Debug\Tre i rad MKV.exe
+C:\Programering\C#\Tre i rad MKV\bin\Debug\Tre i rad MKV.pdb
+C:\Programering\C#\Tre i rad MKV\obj\Debug\Tre i rad MKV.csproj.AssemblyReference.cache
+C:\Programering\C#\Tre i rad MKV\obj\Debug\Tre i rad MKV.csproj.SuggestedBindingRedirects.cache
+C:\Programering\C#\Tre i rad MKV\obj\Debug\Tre i rad MKV.csproj.CoreCompileInputs.cache
+C:\Programering\C#\Tre i rad MKV\obj\Debug\Tre i rad MKV.exe
+C:\Programering\C#\Tre i rad MKV\obj\Debug\Tre i rad MKV.pdb
